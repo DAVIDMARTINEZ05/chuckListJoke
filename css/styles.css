@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
+  background-color: #dfe1df;
   margin: 0;
   padding: 0;
   display: flex;
@@ -28,4 +28,14 @@ button:hover {
 }
 
 
-
+.eliminarBtn{
+  background-color:red;
+}
+.eliminarBtn:hover{
+  background-color:rgb(140, 10, 10);
+}
+div{
+background-color: #ffffff;
+padding: 5px;;
+margin:10px;
+}
